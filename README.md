@@ -6,5 +6,5 @@
  Human starts Humans plus AI movement. 
  Computer learns human is stupid.
  Computer gets sick of human.
- Computer creats AI minus Human movement.
+ Computer creates AI minus Human movement.
  
